@@ -3145,7 +3145,7 @@ Rank,Ticker,Sector,Industry,Exchange,Relative Strength,Percentile,1 Month Ago,3 
 3144,BCPC,Basic Materials,Specialty Chemicals,NASDAQ,91.27,45,47,68,73
 3145,ALRS,Financial Services,Banks - Regional,NASDAQ,91.27,45,30,56,66
 3146,ACM,Industrials,Engineering & Construction,NYSE,91.27,45,68,69,57
-3147,OXSQ,Financial Services,Asset Management,NASDAQ,91.26,45,37,36,51
+3147,OXSQ,Financial Services,Asset Management,NASDAQ,91.26,45,37,37,51
 3148,IGI,Financial Services,Asset Management,NYSE,91.25,45,41,39,59
 3149,NHI,Real Estate,REIT - Healthcare Facilities,NYSE,91.24,45,57,78,89
 3150,HR,Real Estate,REIT - Healthcare Facilities,NYSE,91.24,45,50,67,77
@@ -3654,7 +3654,7 @@ Rank,Ticker,Sector,Industry,Exchange,Relative Strength,Percentile,1 Month Ago,3 
 3653,IX,Financial Services,Financial Conglomerates,NYSE,86.17,36,38,42,75
 3654,CYTH,Healthcare,Drug Manufacturers - Specialty & Generic,NASDAQ,86.17,36,16,6,13
 3655,CENTA,Consumer Defensive,Packaged Foods,NASDAQ,86.16,36,36,29,35
-3656,POR,Utilities,Utilities - Regulated Electric,NYSE,86.16,36,37,55,66
+3656,POR,Utilities,Utilities - Regulated Electric,NYSE,86.15,36,37,55,66
 3657,MNSB,Financial Services,Banks - Regional,NASDAQ,86.14,36,31,37,26
 3658,PFE,Healthcare,Drug Manufacturers - General,NYSE,86.14,36,38,28,38
 3659,MX,Technology,Semiconductors,NYSE,86.13,36,18,13,21
@@ -4369,8 +4369,8 @@ Rank,Ticker,Sector,Industry,Exchange,Relative Strength,Percentile,1 Month Ago,3 
 4368,CBAT,Industrials,Electrical Equipment & Parts,NASDAQ,76.47,24,24,28,59
 4369,STLA,Consumer Cyclical,Auto Manufacturers,NYSE,76.47,24,15,14,20
 4370,CNMD,Healthcare,Medical Devices,NYSE,76.42,24,30,32,20
-4371,CRON,Healthcare,Drug Manufacturers - Specialty & Generic,NASDAQ,76.38,24,28,27,48
-4372,MEGL,Financial Services,Capital Markets,NASDAQ,76.36,24,50,21,9
+4371,MEGL,Financial Services,Capital Markets,NASDAQ,76.38,24,50,21,9
+4372,CRON,Healthcare,Drug Manufacturers - Specialty & Generic,NASDAQ,76.38,24,28,27,48
 4373,SIGI,Financial Services,Insurance - Property & Casualty,NASDAQ,76.34,24,36,48,29
 4374,BWEN,Industrials,Specialty Industrial Machinery,NASDAQ,76.34,24,20,10,16
 4375,LAW,Technology,Software - Application,NYSE,76.32,24,17,30,19
@@ -4726,8 +4726,8 @@ Rank,Ticker,Sector,Industry,Exchange,Relative Strength,Percentile,1 Month Ago,3 
 4725,SNDX,Healthcare,Biotechnology,NASDAQ,70.16,18,10,21,52
 4726,EDUC,Communication Services,Publishing,NASDAQ,70.16,18,20,74,90
 4727,SLRX,Healthcare,Biotechnology,NASDAQ,70.13,18,57,5,4
-4728,DBI,Consumer Cyclical,Footwear & Accessories,NYSE,70.09,18,23,9,20
-4729,BOXL,Technology,Communication Equipment,NASDAQ,70.09,18,92,12,7
+4728,BOXL,Technology,Communication Equipment,NASDAQ,70.1,18,92,12,7
+4729,DBI,Consumer Cyclical,Footwear & Accessories,NYSE,70.09,18,23,9,20
 4730,AMTD,Financial Services,Asset Management,NYSE,70.06,18,11,16,11
 4731,UTZ,Consumer Defensive,Packaged Foods,NYSE,70.02,18,22,38,49
 4732,HLX,Energy,Oil & Gas Equipment & Services,NYSE,70.01,18,24,37,44
@@ -5320,7 +5320,7 @@ Rank,Ticker,Sector,Industry,Exchange,Relative Strength,Percentile,1 Month Ago,3 
 5319,CTOR,Healthcare,Drug Manufacturers - Specialty & Generic,NASDAQ,50.91,8,8,1,0
 5320,JAGX,Healthcare,Biotechnology,NASDAQ,50.88,8,3,4,1
 5321,SYRA,Healthcare,Medical Care Facilities,NASDAQ,50.87,8,16,2,17
-5322,OTLY,Consumer Defensive,Packaged Foods,NASDAQ,50.8,8,15,10,26
+5322,OTLY,Consumer Defensive,Packaged Foods,NASDAQ,50.79,8,15,10,26
 5323,RAY,Consumer Defensive,Household & Personal Products,NASDAQ,50.78,8,6,15,4
 5324,CSAN,Energy,Oil & Gas Refining & Marketing,NYSE,50.77,8,8,12,20
 5325,PIII,Healthcare,Medical Care Facilities,NASDAQ,50.72,8,4,3,9
@@ -5781,9 +5781,9 @@ Rank,Ticker,Sector,Industry,Exchange,Relative Strength,Percentile,1 Month Ago,3 
 5780,EYEN,Healthcare,Biotechnology,NASDAQ,3.31,0,0,0,7
 5781,GCTK,Healthcare,Medical Instruments & Supplies,NASDAQ,3.23,0,0,1,97
 5782,RIME,Technology,Consumer Electronics,NASDAQ,2.72,0,0,3,4
-5783,MULN,Consumer Cyclical,Auto Manufacturers,NASDAQ,2.31,0,0,0,0
+5783,MULN,Consumer Cyclical,Auto Manufacturers,NASDAQ,2.28,0,0,0,0
 5784,UPC,Healthcare,Drug Manufacturers - Specialty & Generic,NASDAQ,2.27,0,0,0,98
 5785,CRKN,Basic Materials,Specialty Chemicals,NASDAQ,1.58,0,0,1,0
 5786,ENVB,Healthcare,Biotechnology,NASDAQ,1.2,0,8,6,6
-5787,CYN,Technology,Software - Application,NASDAQ,1.14,0,0,20,1
+5787,CYN,Technology,Software - Application,NASDAQ,1.15,0,0,20,1
 5788,SCPX,Healthcare,Biotechnology,NYSE MKT,0.89,0,1,2,0
