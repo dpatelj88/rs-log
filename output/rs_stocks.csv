@@ -432,7 +432,7 @@ Rank,Ticker,Sector,Industry,Exchange,Relative Strength,Percentile,1 Month Ago,3 
 431,SOFI,Financial Services,Credit Services,NASDAQ,139.51,92,93,91,96
 432,LLYVK,Communication Services,Entertainment,NASDAQ,139.46,92,94,93,94
 433,DDC,Consumer Defensive,Packaged Foods,NYSE MKT,139.45,92,4,25,1
-434,BURU,Industrials,Specialty Industrial Machinery,NYSE MKT,139.07,92,7,30,70
+434,BURU,Industrials,Specialty Industrial Machinery,NYSE MKT,139.07,92,7,30,72
 435,HMY,Basic Materials,Gold,NYSE,138.95,92,94,93,71
 436,FTCI,Technology,Solar,NASDAQ,138.74,92,28,28,16
 437,ANGO,Healthcare,Medical Instruments & Supplies,NASDAQ,138.65,92,84,91,83
@@ -1498,7 +1498,7 @@ Rank,Ticker,Sector,Industry,Exchange,Relative Strength,Percentile,1 Month Ago,3 
 1497,TR,Consumer Defensive,Confectioners,NYSE,104.29,74,83,66,38
 1498,BIP,Utilities,Utilities - Diversified,NYSE,104.28,73,61,42,61
 1499,DK,Energy,Oil & Gas Refining & Marketing,NYSE,104.28,73,27,18,17
-1500,ITT,Industrials,Specialty Industrial Machinery,NYSE,104.28,73,69,53,71
+1500,ITT,Industrials,Specialty Industrial Machinery,NYSE,104.28,73,69,53,70
 1501,SNV,Financial Services,Banks - Regional,NYSE,104.25,73,60,63,85
 1502,SMBK,Financial Services,Banks - Regional,NYSE,104.21,73,71,83,86
 1503,HTB,Financial Services,Banks - Regional,NYSE,104.21,73,77,77,78
@@ -2564,7 +2564,7 @@ Rank,Ticker,Sector,Industry,Exchange,Relative Strength,Percentile,1 Month Ago,3 
 2563,UTHR,Healthcare,Biotechnology,NASDAQ,94.26,55,49,57,76
 2564,HTBK,Financial Services,Banks - Regional,NASDAQ,94.26,55,56,68,68
 2565,DAL,Industrials,Airlines,NYSE,94.26,55,42,40,85
-2566,BOH,Financial Services,Banks - Regional,NYSE,94.23,55,61,65,72
+2566,BOH,Financial Services,Banks - Regional,NYSE,94.23,55,61,65,71
 2567,FCF,Financial Services,Banks - Regional,NYSE,94.22,55,64,59,77
 2568,BLZE,Technology,Software - Infrastructure,NASDAQ,94.21,55,25,23,47
 2569,PECO,Real Estate,REIT - Retail,NASDAQ,94.2,55,56,51,55
@@ -2807,7 +2807,7 @@ Rank,Ticker,Sector,Industry,Exchange,Relative Strength,Percentile,1 Month Ago,3 
 2806,DTSS,Technology,Software - Infrastructure,NASDAQ,92.74,51,36,19,15
 2807,MSA,Industrials,Security & Protection Services,NYSE,92.74,51,46,34,40
 2808,HD,Consumer Cyclical,Home Improvement Retail,NYSE,92.73,51,55,50,66
-2809,TFC,Financial Services,Banks - Regional,NYSE,92.72,51,45,53,72
+2809,TFC,Financial Services,Banks - Regional,NYSE,92.72,51,45,53,71
 2810,SUZ,Basic Materials,Paper & Paper Products,NYSE,92.69,51,40,41,51
 2811,EVT,Financial Services,Asset Management,NYSE,92.66,51,51,51,56
 2812,BX,Financial Services,Asset Management,NYSE,92.65,51,50,52,88
